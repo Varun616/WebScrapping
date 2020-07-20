@@ -1,0 +1,961 @@
+product_name,product_color,memory_size_in_gb,ratings,ram_size_in_gb,rom_size_in_gb,product_size_in_inches,front_cam_mp,battery_size_mAh,price_in_rupees
+POCO X2 ,Matrix Purple,128,4.5,6,128,6.67,20,4500,"₹18,499"
+Infinix Hot 9 ,Ocean Wave,64,4.6,4,64,6.6,8,5000,"₹9,499"
+Infinix Hot 9 ,Violet,64,4.6,4,64,6.6,8,5000,"₹9,499"
+Realme Narzo 10 ,That Green,128,4.5,4,128,6.5,16,5000,"₹11,999"
+Realme Narzo 10 ,That Blue,128,4.5,4,128,6.5,16,5000,"₹11,999"
+Realme Narzo 10 ,That White,128,4.5,4,128,6.5,16,5000,"₹11,999"
+POCO X2 ,Atlantis Blue,128,4.5,6,128,6.67,20,4500,"₹18,499"
+Redmi Note 8 Pro ,Halo White,128,4.4,6,128,6.53,20,4500,"₹16,999"
+Realme 6 Pro ,Lightning Blue,64,4.5,6,64,6.6,16,4300,"₹17,999"
+POCO X2 ,Matrix Purple,64,4.5,6,64,6.67,20,4500,"₹17,499"
+Vivo U10 ,Thunder Black,32,4.4,3,32,6.35,8,5000,"₹10,990"
+Vivo U10 ,Electric Blue,32,4.4,3,32,6.35,8,5000,"₹10,990"
+Motorola One Fusion+ ,Twilight Blue,128,4.5,6,128,6.5,16,5000,"₹17,499"
+OPPO A12 ,Blue,32,4.3,3,32,6.22,5,4230,"₹9,990"
+OPPO A12 ,Black,32,4.3,3,32,6.22,5,4230,"₹9,990"
+Tecno Spark Power 2 ,Ice Jadeite,64,4.3,4,64,7,16,6000,"₹9,999"
+Tecno Spark Power 2 ,Misty Grey,64,4.3,4,64,7,16,6000,"₹9,999"
+OPPO A9 2020 ,Space Purple,128,4.3,8,128, , ,5000,"₹15,990"
+OPPO A5s ,Blue,32,4.3,2,32,6.2,8,4230,"₹8,990"
+Samsung Galaxy M01 ,Black,32,4.3,3,32,5.7,5,4000,"₹9,938"
+Vivo Z1x ,Fusion Blue,128,4.4,8,128, , ,4500,"₹18,990"
+OPPO A31 ,Fantasy White,128,4.3,6,128,6.5,8,4230,"₹14,990"
+OPPO A31 ,Mystery Black,128,4.3,6,128,6.5,8,4230,"₹14,990"
+Vivo Y11 ,Agate Red,32,4.4,3,32, , ,5000,"₹11,168"
+Vivo Y11 ,Mineral Blue,32,4.4,3,32, , ,5000,"₹11,173"
+Vivo Y30 ,Emerald Black,128,4.3,4,128,6.47,8,5000,"₹14,990"
+Vivo Y30 ,Dazzle Blue,128,4.3,4,128,6.47,8,5000,"₹14,990"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Realme Narzo 10A ,So White,64,4.5,4,64,6.52,5,5000,"₹9,999"
+Realme Narzo 10A ,So Blue,64,4.5,4,64,6.52,5,5000,"₹9,999"
+Realme Narzo 10A ,So White,32,4.6,3,32,6.52,5,5000,"₹8,999"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Realme Narzo 10A ,So Blue,32,4.6,3,32,6.52,5,5000,"₹8,999"
+OPPO A5s ,Green,64,4.3,4,64,6.2,8,4230,"₹11,990"
+Vivo Y91i ,Fusion Black,32,4.4,2,32,6.22,5,,"₹8,488"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Vivo Z1x ,Fusion Blue,64,4.4,6,64, , ,4500,"₹16,990"
+Vivo Z1x ,Phantom Purple,128,4.4,8,128, , ,4500,"₹18,990"
+Vivo Z1x ,Phantom Purple,64,4.4,6,64, , ,4500,"₹16,990"
+OPPO F15 ,Blazing Blue,128,4.4,8,128,6.4,16,4000,"₹18,990"
+Apple iPhone SE ,Black,64,4.5,64, , , ,,"₹42,500"
+Vivo Y91i ,Ocean Blue,32,4.4,2,32,6.22,5,,"₹8,278"
+Grabo VIDO, , ,3.8,64,64, , ,1000,₹489
+Vivo Y91i ,Ocean Blue,32,4.3,3,32,6.22,5,,"₹10,498"
+Samsung Galaxy M01 ,Blue,32,4.3,3,32,5.7,5,4000,"₹9,950"
+Micromax X380, , ,4,32,32, , ,2500,₹996
+Vivo Z1Pro ,Sonic Black,128,4.5,6,128,6.53,32,5000,"₹17,990"
+Apple iPhone SE ,White,64,4.5,64, , , ,,"₹42,500"
+Lava A3, , ,4.2,4,3,1.77, ,1750,"₹1,099"
+OPPO A11K ,Flowing Silver,32,4.2,2,32,6.22,5,4230,"₹8,990"
+Vivo S1 Pro ,Mystic Black,128,4.4,8,128,6.38,32,4500,"₹19,990"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Apple iPhone SE ,Red,64,4.5,64, , , ,,"₹42,500"
+Vivo Z1Pro ,Sonic Blue,128,4.5,6,128,6.53,32,5000,"₹17,990"
+Redmi Note 8 ,Cosmic Purple,128,4.4,6,128, , ,,"₹15,400"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Realme 5 Pro ,Sparkling Blue,64,4.5,6,64,6.3,16,,"₹14,999"
+Realme 5 Pro ,Sparkling Blue,128,4.5,8,128,6.3,16,,"₹16,999"
+OPPO A5s ,Black,64,4.3,4,64,6.2,8,4230,"₹11,990"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+OPPO A11K ,Deep Blue,32,4.2,2,32,6.22,5,4230,"₹8,990"
+Apple iPhone SE ,Black,128,4.5,128, , , ,,"₹47,800"
+Lava A1, , ,4.2,24,24,1.77, ,800,₹897
+Lava A1, , ,4.2,4,24,1.77, ,800,₹941
+Snexian Rock, , ,3.9,32,32, , ,1000,"₹1,285"
+Snexian Rock, , ,3.9,32,32, , ,800,"₹1,285"
+OPPO A52 ,Stream White,128,4.3,6,128,6.5,16,5000,"₹16,990"
+Motorola G8 Power Lite ,Royal Blue,64,4.5,4,64,6.5,8,5000,"₹9,499"
+Motorola G8 Power Lite ,Arctic Blue,64,4.5,4,64,6.5,8,5000,"₹9,499"
+Panasonic ELUGA I6 ,Black,16,3.8,2,16,5.45,5,,"₹6,499"
+Nokia 105 SS, , ,4.3,4,4, , , ,"₹1,299"
+Redmi Note 8 Pro ,Electric Blue,128,4.4,6,128,6.53,20,4500,"₹16,999"
+Motorola One Fusion+ ,Moonlight White,128,4.5,6,128,6.5,16,5000,"₹17,499"
+Samsung Galaxy J2 Core ,Blue,16,4.2,1,16,5,5,,"₹6,299"
+Realme 6 ,Comet Blue,64,4.4,6,64,6.5,16,4300,"₹15,999"
+Realme 6 ,Comet White,64,4.4,6,64,6.5,16,4300,"₹15,999"
+Realme X3 ,Glacier Blue,128,4.3,8,128, , ,4200,"₹25,999"
+Micromax X746, , ,4,32,32, , ,3000,"₹1,199"
+Apple iPhone SE ,Red,128,4.5,128, , , ,,"₹47,800"
+Snexian Rock, , ,3.9,32,32, , ,1000,"₹1,270"
+Micromax X756, , ,4,32,32, , ,3000,"₹1,499"
+Lava A7, , ,4.2,32,24,2.4, ,1750,"₹1,599"
+Kechaoda K10, , ,4,32,32, , ,300,₹985
+Samsung Galaxy J2 Core ,Gold,16,4.2,1,16,5,5,,"₹6,999"
+Kechaoda K66 Plus, , ,4.1,32,64,1.8, ,400,₹999
+Redmi K20 Pro ,Flame Red,128,4.5,6,128, , ,4000,"₹24,999"
+Nokia 3.2 ,Black,32,4.1,3,32, , ,4000,"₹10,003"
+Kechaoda K66 Plus, , ,4.1,32,64,1.8, ,400,₹999
+Micromax X744, , ,3.9,32,32, , ,2200,"₹1,280"
+Samsung Galaxy J2 Core ,Black,16,4.2,1,16,5,5,,"₹6,299"
+Apple iPhone 11 ,Purple,128,4.7,128, , , ,A13,"₹73,600"
+Samsung Galaxy A51 ,Prism Crush Blue,128,4.5,8,128,6.4,32,4000,"₹27,999"
+Kechaoda A26, , ,4.1,32,32,0.66, , ,₹999
+Realme X3 SuperZoom ,Glacier Blue,128,4.4,8,128, , ,4200,"₹27,999"
+Realme XT ,Pearl Blue,64,4.5,4,64,6.4,16,,"₹16,999"
+OPPO A5 2020 ,Mirror Black,64,4.4,4,64, , ,5000,"₹15,990"
+Samsung Galaxy M11 ,Metallic Blue,64,4.2,4,64,6.4,8,5000,"₹14,479"
+Samsung Galaxy A31 ,Prism Crush Black,128,4.4,6,128,6.4,20,5000,"₹20,999"
+Redmi Note 8 Pro ,Shadow Black,64,4.4,6,64,6.53,20,4500,"₹15,999"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Micromax X388, , ,3.9,32,32, , ,2500,"₹1,145"
+Apple iPhone 11 ,Black,128,4.7,128, , , ,A13,"₹73,600"
+OPPO A52 ,Twilight Black,128,4.3,6,128,6.5,16,5000,"₹16,990"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+OnePlus 7T ,Glacier Blue,128,4.6,8,128, , ,3800,"₹36,525"
+Motorola One Fusion+ ,Moonlight White,128,4.5,6,128,6.5,16,5000,"₹17,499"
+Realme 6 ,Comet Blue,64,4.4,6,64,6.5,16,4300,"₹15,999"
+Realme 6 ,Comet White,64,4.4,6,64,6.5,16,4300,"₹15,999"
+Micromax X746, , ,4,32,32, , ,3000,"₹1,199"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Realme X3 ,Glacier Blue,128,4.3,8,128, , ,4200,"₹25,999"
+Apple iPhone SE ,Red,128,4.5,128, , , ,,"₹47,800"
+Micromax X744, , ,3.9,32,32, , ,2200,"₹1,280"
+Micromax X756, , ,4,32,32, , ,3000,"₹1,499"
+Snexian Rock, , ,3.9,32,32, , ,1000,"₹1,270"
+Samsung Galaxy J2 Core ,Black,16,4.2,1,16,5,5,,"₹6,299"
+POCO M2 Pro ,Green and Greener,64, ,6,64,6.67,16,5000,"₹14,999"
+POCO M2 Pro ,Two Shades of Black,64, ,6,64,6.67,16,5000,"₹14,999"
+OPPO A9 2020 ,Vanilla Mint,128,4.4,4,128, , ,5000,"₹13,990"
+Lava A3, , ,4.2,4,3,1.77, ,1750,"₹1,099"
+Apple iPhone SE ,Red,128,4.5,128, , , ,,"₹47,800"
+Snexian Rock, , ,3.9,32,32, , ,1000,"₹1,270"
+Samsung Galaxy J2 Core ,Black,16,4.2,1,16,5,5,,"₹6,299"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Samsung Galaxy J2 Core ,Gold,16,4.2,1,16,5,5,,"₹6,999"
+Kechaoda K10, , ,4,32,32, , ,300,₹985
+Lava A7, , ,4.2,32,24,2.4, ,1750,"₹1,599"
+Kechaoda K66 Plus, , ,4.1,32,64,1.8, ,400,₹999
+Redmi K20 Pro ,Flame Red,128,4.5,6,128, , ,4000,"₹24,999"
+Nokia 3.2 ,Black,32,4.1,3,32, , ,4000,"₹10,003"
+Apple iPhone 11 ,Purple,128,4.7,128, , , ,A13,"₹73,600"
+Samsung Galaxy M40 ,Midnight Blue,128,4.2,6,128, , ,3500,"₹17,540"
+Samsung Galaxy A51 ,Prism Crush Blue,128,4.5,8,128,6.4,32,4000,"₹27,999"
+Kechaoda A26, , ,4.1,32,32,0.66, , ,₹999
+Samsung Galaxy M11 ,Black,32,4.2,3,32,6.4,8,5000,"₹12,151"
+Realme X3 SuperZoom ,Glacier Blue,128,4.4,8,128, , ,4200,"₹27,999"
+Realme XT ,Pearl Blue,64,4.5,4,64,6.4,16,,"₹16,999"
+Redmi 8A Dual ,Sky White,32,4.3,2,32,6.22,8,5000,"₹8,498"
+OPPO A5 2020 ,Mirror Black,64,4.4,4,64, , ,5000,"₹15,990"
+Lava A1200, , ,4.2,32,24,1.8, ,1750,"₹1,199"
+Redmi K20 Pro ,Glacier Blue,128,4.5,6,128, , ,4000,"₹24,999"
+Samsung Galaxy M11 ,Violet,64,4.2,4,64,6.4,8,5000,"₹14,218"
+Apple iPhone 11 ,Green,128,4.7,128, , , ,A13,"₹73,600"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹794
+Apple iPhone 11 ,Green,128,4.7,128, , , ,A13,"₹73,600"
+Samsung Galaxy A31 ,Prism Crush White,128,4.4,6,128,6.4,20,5000,"₹20,999"
+POCO F1 ,Steel Blue,256,4.5,8,256,6.18,20,4000,"₹22,999"
+Samsung Guru FM Plus, , ,4.2,, , , , ,"₹1,662"
+Vivo Y12 ,BURGUNDY RED,64,4.4,3,64, , ,5000,"₹12,988"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Samsung Galaxy M21 ,Midnight Blue,64,4.4,4,64,6.4,20,6000,"₹15,990"
+Samsung Galaxy M21 ,Raven Black,64,4.4,4,64,6.4,20,6000,"₹15,990"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Kechaoda A26, , ,4.1,32,32,0.66, , ,₹999
+Kechaoda A26, , ,4.1,32,32,0.66, , ,₹999
+GreenBerry G 118, , ,3.6,256,256, , ,5000,"₹1,799"
+Samsung Galaxy A21s ,Black,64,4.3,4,64,6.5,13,5000,"₹16,499"
+Samsung Guru FM Plus SM-B110E/D, , ,4.3,, , , , ,"₹1,662"
+Redmi Note 8 Pro ,Shadow Black,128,4.4,6,128,6.53,20,4500,"₹17,990"
+Redmi Note 8 Pro ,Halo White,128,4.4,8,128,6.53,20,4500,"₹18,999"
+Redmi Note 7 Pro ,Space Black,128,4.4,6,128,6.3,13,4000,"₹13,999"
+Samsung Guru FM Plus SM-B110E/D, , ,4.3,, , , , ,"₹1,662"
+Micromax X744, , ,3.9,32,32, , ,2200,"₹1,289"
+I Kall K73 Combo of Two Mobiles, , ,3,32,64, , , ,₹999
+Karbonn Jumbo K9, , ,4,Expandable, , , ,1800,"₹1,379"
+Samsung Galaxy A21s ,Blue,64,4.3,4,64,6.5,13,5000,"₹16,499"
+Samsung Galaxy M11 ,Metallic Blue,32,4.2,3,32,6.4,8,5000,"₹12,345"
+Realme 6 Pro ,Lightning Orange,64,4.5,6,64,6.6,16,4300,"₹17,999"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Micromax X748, , ,4,32,32, , ,2500,"₹1,549"
+Karbonn K-Phone 7, , ,3.7,32,32, , ,800,₹999
+Karbonn K-Phone 7, , ,3.7,32,32,2.4, ,800,₹995
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Karbonn K-Stylo, , ,3.9,12,32, , ,1750,"₹1,499"
+Micromax X512, , ,3.9,56,24, , ,1750,₹948
+Apple iPhone 11 ,Green,64,4.7,64, , , ,A13,"₹68,300"
+Lava A9, , ,4.7,4,4,2.8, ,1700,"₹1,519"
+Kechaoda K66 Plus, , ,4.1,32,32, , ,850,₹999
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+BlackZone M4, , ,3.9,32,32, , ,850,₹750
+BlackZone M4, , ,3.9,32,32, , ,850,₹705
+Lava Spark i8, , ,4.1,32,32,2.8, ,1200,"₹1,770"
+Infinix Hot 9 Pro ,Ocean Wave,64,4.6,4,64,6.6,8,5000,"₹10,499"
+Karbonn K9, , ,4,6.6, , , ,1800,"₹1,385"
+Infinix Hot 9 Pro ,Violet,64,4.6,4,64,6.6,8,5000,"₹10,499"
+Realme X3 SuperZoom ,Arctic White,128,4.4,8,128, , ,4200,"₹27,999"
+Realme X3 SuperZoom ,Glacier Blue,256,4.1,12,256, , ,4200,"₹32,999"
+Samsung Galaxy A51 ,Prism Crush Black,128,4.4,6,128,6.4,32,4000,"₹25,250"
+Apple iPhone 11 ,Purple,64,4.7,64, , , ,A13,"₹68,300"
+OPPO A1K ,Black,32,4.3,2,32,6.1,5,,"₹7,990"
+Kechaoda K115, , ,4.1,32,32, , ,850,₹935
+Apple iPhone XR ,White,64,4.6,64, , , ,,"₹52,500"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+OPPO Reno2 F ,Lake Green,128,4.4,8,128,P70, ,4000,"₹21,990"
+Kechaoda K33, , ,4.1,32,32, , ,1000,₹949
+Realme X ,Polar White,128,4.5,8,128, , ,3765,"₹20,999"
+Samsung Galaxy A51 ,Prism Crush Blue,128,4.4,6,128,6.4,32,4000,"₹25,250"
+Lava A7, , ,4.2,32,24,2.4, ,1750,"₹1,499"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Lava A7, , ,4.2,32,24,2.4, ,1750,"₹1,699"
+Kechaoda K66 Plus, , ,4.1,32,64,1.8, ,400,₹980
+OPPO Reno3 Pro ,Midnight Black,256,4.4,8,256,6.4,44,4025,"₹32,990"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Realme XT ,Pearl White,64,4.5,4,64,6.4,16,,"₹16,999"
+Nokia 105, , ,4.2,4,4, , , ,"₹1,449"
+Samsung Galaxy A51 ,Prism Crush White,128,4.5,8,128,6.4,32,4000,"₹27,999"
+Kechaoda K10, , ,4,32,32, , ,300,₹999
+Kechaoda K10, , ,4,32,32, , ,300,₹970
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹798
+Micromax X388, , ,3.9,32,32, , ,2500,"₹1,069"
+Micromax X748, , ,4,32,32, , ,2500,"₹1,549"
+Kechaoda K116 Plus, , ,4,256,32, , ,400,₹985
+Kechaoda K66 Plus, , ,4.1,32,32, , ,850,₹980
+Lava A5, , ,4.1,32,24,2.4, ,1000,"₹1,399"
+Lava A5, , ,4.1,32,24,2.4, ,1000,"₹1,369"
+Gfive Guru, , ,3.7,64,256, , ,1050,₹699
+Gfive Guru, , ,3.7,64,256,1.8, ,1050,₹699
+Redmi Note 8 ,Space Black,128,4.4,6,128, , ,4000,"₹15,999"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+OnePlus 7 ,Mirror Grey,128,4.6,6,128, , ,3700,"₹32,999"
+Lava Spark i8, , ,4.1,32,32,2.8, ,1200,"₹1,579"
+Itel It 2190, , ,4.1,32,32,1.8,0,,"₹1,049"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Kechaoda K115, , ,4.1,32,32, , ,850,₹940
+Vivo V19 ,Mystic Silver,128,4.4,8,128,6.44,32,4500,"₹27,990"
+Vivo V19 ,Piano Black,128,4.4,8,128,6.44,32,4500,"₹27,990"
+Kechaoda K112, , ,3.9,32,64,2.4, ,3600,"₹1,330"
+Vivo S1 ,Skyline Blue,128,4.5,4,128,6.38,32,4500,"₹16,990"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Kechaoda K112, , ,3.9,32,64,2.4, ,3600,"₹1,320"
+Vivo S1 ,Skyline Blue,128,4.4,6,128,6.38,32,4500,"₹19,990"
+Kechaoda K33, , ,4.1,32,32, , ,1000,₹949
+Micromax X756, , ,4,32,32, , ,3000,"₹1,449"
+Karbonn KX26, , ,3.9,32,32,2.4, ,1450,"₹1,090"
+Micromax X744, , ,3.9,32,32, , ,2200,"₹1,279"
+OPPO Reno2 F ,Sky White,128,4.4,8,128,P70, ,4000,"₹21,990"
+Salora Volt 2, , ,3.9,32,32, , ,2000,₹749
+Kechaoda K-55 Plus, , ,4,512,32, , ,850,"₹1,045"
+Kechaoda K-55 Plus, , ,4,512,32, , ,850,"₹1,045"
+Vivo Y91i ,Black,32,4.4,2,32,6.22,5,,"₹9,060"
+Good One Magic, , ,4.1,32,32, , ,1000,"₹1,399"
+Karbonn K24+, , ,3.9,Expandable, , , ,1600,"₹1,249"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Karbonn KX1, , ,3.9,32,32, , ,800,₹899
+Samsung Galaxy S10 Lite ,Prism Blue,128,4.5,8,128,6.7,32,4500,"₹42,999"
+Apple iPhone 11 ,Red,128,4.7,128, , , ,A13,"₹73,600"
+Apple iPhone XS ,Space Grey,64,4.7,64, , , ,A12,"₹62,999"
+Samsung Galaxy A21s ,Blue,64,4.3,6,64,6.5,13,5000,"₹18,499"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Snexian Guru 106, , , ,32,32, , ,1080,₹649
+Snexian GURU 106, , , ,32,32, , ,1080,₹649
+Gfive Guru, , ,3.7,256,32, , ,1050,₹699
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+OPPO K1 ,Piano Black,64,4.4,4,64,6.41,25,3600,"₹14,990"
+Samsung Galaxy A51 ,Prism Crush White,128,4.4,6,128,6.4,32,4000,"₹25,250"
+Samsung Galaxy A71 ,Prism Crush Blue,128,4.4,8,128,6.7,32,4500,"₹32,999"
+Kechaoda K10, , ,4,32,32, , ,300,₹975
+Kechaoda K66 Plus, , ,4.1,32,64,1.8, ,400,₹985
+Realme X2 Pro ,Lunar White,128,4.5,8,128, , ,4000,"₹31,999"
+Realme X2 Pro ,Neptune Blue,128,4.5,8,128, , ,4000,"₹31,999"
+Realme X2 Pro ,Lunar White,256,4.6,12,256, , ,4000,"₹35,999"
+I Kall K3312, , ,3.5,32,64,1.8, ,1000,₹749
+Redmi K20 Pro ,Carbon Black,128,4.5,6,128, , ,4000,"₹24,999"
+I Kall K6610, , ,3.5,32,64,1.8, ,1000,₹599
+Apple iPhone 7 Plus ,Gold,32,4.5,32, , , ,Apple,"₹36,999"
+iQOO 3 ,Tornado Black,128,4.4,8,128, , ,4440,"₹34,990"
+Samsung Galaxy S10 Lite ,Prism Black,128,4.5,8,128,6.7,32,4500,"₹42,999"
+Micromax X412, , ,3.9,32,32, , ,800,₹899
+Samsung Galaxy M31 ,Space Black,128,4.5,6,128,6.4,32,6000,"₹19,900"
+BlackZone ATOM, , ,3,64,64, , ,4000,₹899
+Kechaoda K66 Plus, , ,4.1,32,32, , ,850,₹985
+OPPO A9 2020 ,Marine Green,128,4.4,4,128, , ,5000,"₹16,990"
+Micromax X749, , ,4.2,32,32, , ,1750,"₹1,390"
+Samsung Guru 1200, , ,4.3,, , , , ,"₹1,346"
+Easyfone Star, , ,3.8,32,32,1.7, , ,"₹3,999"
+Easyfone Star, , ,3.8,32,32,1.7, , ,"₹3,999"
+Nokia 3.2 ,Black,32,4.1,3,32, , ,4000,"₹10,003"
+Kechaoda K10, , ,4,32,32, , ,300,₹950
+Vivo V17 ,Glacier ice white,128,4.5,8,128,6.44,32,4500,"₹24,990"
+Apple iPhone 6s ,Space Grey,32,4.5,32, , , ,,"₹29,746"
+Vivo S1 ,Diamond Black,128,4.5,4,128,6.38,32,4500,"₹16,990"
+I Kall K25 Combo of Two Mobiles, , ,3.5,32,64, , ,1000,"₹1,199"
+Kechaoda A27, , ,4.1,32,32,0.66, , ,₹980
+Kechaoda K115, , ,4.1,32,32, , ,850,₹935
+Kechaoda A27, , ,4.1,32,32,0.66, , ,₹930
+Kechaoda K115, , ,4.1,32,32, , ,850,₹930
+Samsung Galaxy Note10 Lite ,Aura Black,128,4.5,8,128,6.7,32,4500,"₹39,999"
+Samsung Galaxy A21s ,White,64,4.3,6,64,6.5,13,5000,"₹18,499"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Samsung Galaxy A21s ,Black,64,4.3,6,64,6.5,13,5000,"₹18,499"
+iQOO 3 ,Quantum Silver,128,4.4,8,128, , ,4440,"₹34,990"
+LG W30 ,Thunder Blue,32,4,3,32,6.26,16,4000,"₹10,999"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+iQOO 3 ,Quantum Silver,256,4.4,8,256, , ,4440,"₹37,990"
+Micromax X1i Power, , ,3.9,32,32, , ,1750,"₹1,110"
+Apple iPhone 11 ,Red,64,4.7,64, , , ,A13,"₹68,300"
+Micromax X421, , ,3.9,32,32, , ,1800,"₹1,099"
+Detel D1 Guru, , ,3.6,32,32, , ,1000,₹649
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Micromax X421, , ,3.9,32,32, , ,1800,₹982
+Mi Mix 2 ,Black,128,4.3,6,128, , ,,"₹16,999"
+Redmi Note 8 Pro ,Electric Blue,64,4.4,6,64,6.53,20,4500,"₹16,899"
+Karbonn K451 Power, , ,3.8,32,32,2.4, ,3000,"₹1,498"
+Itel IT 2163, , ,4,32,32, , ,1000,₹839
+Hicell C2 Dezire, , ,3.4,32,32,1.8, ,1050,₹629
+Hicell C2 Dezire, , ,3.4,32,32,1.8, ,1050,₹629
+Samsung Galaxy A71 ,Prism Crush Black,128,4.4,8,128,6.7,32,4500,"₹32,999"
+Redmi Note 6 Pro ,Red,64,4.5,4,64,6.26,20,4000,"₹14,995"
+Kechaoda K116 Plus, , ,4,32,32, , ,400,₹999
+Muphone MU M360, , ,4.3,32,32, , ,800,₹990
+Good One Magic, , ,4.1,32,32, , ,1000,"₹1,499"
+iQOO 3 ,5G  , ,4.4,12,256, , ,4440,"₹44,990"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Vivo V19 ,Piano Black,256,4.4,8,256,6.44,32,4500,"₹31,990"
+Honor 20 ,Midnight Black,128,4.4,6,128, , ,3750,"₹22,999"
+Detel D1 Champ, , ,3.7,32,32, , ,1000,₹649
+OPPO Reno3 Pro ,Midnight Black,128,4.4,8,128,6.4,44,4025,"₹29,990"
+Redmi Note 8 ,Cosmic Purple,64,4.4,4,64, , ,4000,"₹13,999"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Lava 34 Plus, , ,4.2,32,32,2.4, ,2500,"₹1,619"
+I Kall K6610, , ,3.5,32,64,1.8, ,1000,₹599
+Blackbear B5 Nex, , ,3.7,64,64,1.8, ,1050,₹799
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Redmi K20 Pro ,Pearl White,128,4.5,6,128, , ,4000,"₹24,999"
+Micromax X512, , ,3.9,56,24, , ,1750,₹985
+I Kall K34 New, , ,3.6,32,64,1.8, ,800,₹649
+Karbonn K140 Pop, , ,3.9,32,32,1.8, ,1000,₹849
+Nokia 150, , ,4.2,4,4,2.4, ,1020,"₹2,135"
+OnePlus 7T ,Glacier Blue,256,4.6,8,256, , ,3800,"₹38,084"
+Kechaoda K116 Plus, , ,4,32,32, , ,400,₹980
+Realme 2 Pro ,Black Sea,128,4.5,8,128,6.3,16,3500,"₹15,490"
+Salora VOLT 2, , ,3.9,32,32, , ,2000,₹749
+OnePlus 7 ,Red,256,4.6,8,256, , ,3700,"₹37,850"
+I Kall K33 New, , ,3.7,32,64, , ,1500,₹749
+Nokia 106, , ,4.2,4,4, , , ,"₹1,349"
+Easyfone Royale, , ,4.1,32,32,2.4,0,,"₹3,399"
+Lava Z41 ,Amber Red,16,4.1,1,16,5,2,,"₹5,049"
+OPPO Reno 10x Zoom ,Ocean Green,256,4.5,8,256,6.6,16,4065,"₹41,990"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Samsung Galaxy M31 ,Ocean Blue,128,4.5,6,128,6.4,32,6000,"₹19,900"
+Blackbear C-99 Sultan, , ,3.6,64,64,2.4, ,2500,"₹1,079"
+Kechaoda K115, , ,4.1,32,32, , ,850,₹970
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Kechaoda A27, , ,4.1,32,32,0.66, , ,₹945
+Lava A1 super, , ,4,32,32,1.8, ,800,"₹1,049"
+Kechaoda K115, , ,4.1,32,32, , ,850,₹945
+Apple iPhone 7 Plus ,Rose Gold,32,4.5,32, , , ,Apple,"₹36,999"
+I Kall K50, , ,3.7,32,64, , ,2000,₹809
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Vivo Y91i ,Black,32,4.3,3,32, , ,4030,"₹10,169"
+Karbonn K9 SPY, , ,3.9,Expandable, , , ,1750,"₹1,399"
+I Kall K 30, , ,3.8,32,64, , ,1000,₹649
+OPPO A9 2020 ,Space Purple,128,4.4,4,128, , ,5000,"₹18,990"
+OPPO A9 2020 ,Vanilla Mint,128,4.3,8,128, , ,5000,"₹15,990"
+OPPO F11 Pro ,Aurora Green,128,4.4,6,128,6.5,16,4000,"₹17,990"
+Micromax X740, , ,3.8,128,32, , ,1800,"₹1,460"
+Karbonn KX24, , ,3.9,32,32,2.4, ,3000,"₹1,349"
+Lava A7 Wave, , ,4.2,64,512, , ,1750,"₹1,599"
+BlackZone M4, , ,3.9,32,32, , ,850,₹705
+I Kall K 60, , ,4,32,32, , ,1500,"₹1,999"
+OPPO F5 ,Black,64,4.4,6,64,6,20,,"₹18,999"
+Kechaoda K9, , ,4.1,32,64,2.4, ,1700,"₹1,250"
+Vivo V9 Youth ,Black,32,4.4,4,32,6.3,16,3260,"₹16,990"
+JIVI N3720 Power, , ,4.1,1,16,2.8,0,4000,"₹2,299"
+Mi A3 ,More Than White,128,4.2,6,128,6.08,32,4030,"₹14,990"
+I Kall K33 Combo of Two Mobiles, , ,3.8,32,64,2.4, ,1500,"₹1,299"
+Ssky S-40 Prime, , ,3.7,32,32,1.8, ,1000,₹749
+Vivo Y66 ,Crown Gold,32,4.3,3,32,5.5,16,,"₹14,990"
+Vivo V7 ,Gold,32,4.4,4,32,5.7,24,,"₹18,990"
+Nokia 4.2 ,Black,32,4.1,3,32,5.71,8,3000,"₹10,147"
+OPPO A83 ,Champagne,16,4.2,2,16,5.7,8,,"₹9,490"
+Micromax X811, , ,3.8,32,32, , ,1000,"₹1,476"
+OPPO A5s ,Black,32,4.3,3,32,6.2,8,4230,"₹9,490"
+Redmi K20 ,Carbon Black,128,4.5,6,128, , ,4000,"₹24,999"
+Samsung Galaxy A30s ,Prism Crush Black,64,4.3,4,64, , ,4000,"₹18,900"
+I Kall K20 New Combo of Two Mobiles, , ,3.4,32,64, , ,1000,"₹1,199"
+Karbonn KX1, , ,3.9,32,32, , ,800,₹899
+I Kall K3310, , ,3.7,32,64,1.8, ,1000,₹639
+Nokia 216/216 DS, , ,4.3,16,,2.4,0.3,,"₹2,450"
+Samsung Galaxy S20+ ,Cosmic Black,128,4.5,8,128,6.7,10,,"₹77,999"
+MTR MT 310, , ,3.7,64,64, , ,800,₹650
+Redmi K20 ,Pearl White,64,4.5,6,64, , ,4000,"₹21,999"
+Dublin D613, , ,4.5,32,64, , ,1800,₹649
+Kechaoda K33, , ,4.1,32,32, , ,1000,₹970
+I Kall K33 New, , ,3.7,32,64, , ,1500,₹749
+Jivi N3, , ,3.7,0.032,32,2.4, ,1450,₹949
+Vivo S1 ,Skyline Blue,64,4.4,6,64,6.38,32,4500,"₹18,990"
+Vivo Y15 ,Burgundy Red,64,4.4,4,64,6.35,16,5000,"₹12,900"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Lava 34 Super, , ,4,32,32,2.4, ,2500,"₹1,699"
+Google Pixel 3a ,Just Black,64,4.5,4,64, , ,,"₹30,999"
+Tecno Camon 15 Pro ,Ice Jadite,128,4.2,6,128,6.53,32,,"₹15,999"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+I Kall K28 Combo of Two Mobiles, , ,3.4,32,64, , , ,"₹1,299"
+I Kall K28 Combo of Two Mobiles, , ,3.4,32,64, , , ,"₹1,199"
+I Kall K25 New, , ,3.5,32,64, , ,1000,₹649
+Redmi Note 6 Pro ,Rose Gold,64,4.5,6,64,6.26,20,4000,"₹16,675"
+Redmi K20 Pro ,Flame Red,256,4.5,8,256, , ,4000,"₹29,999"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+OPPO A9 ,Fluorite Purple,128,4.4,4,128,6.53,16,4020,"₹16,490"
+Good One Magic, , ,4.1,32,32, , ,1000,"₹1,399"
+Itel Magic 1, , ,4.2,32,32,2.4,0.3,,"₹1,499"
+Blackberry Evolve ,Black,64,3.7,4,64,5.99,16,4000,"₹24,999"
+Samsung Galaxy A30s ,Prism Crush White,64,4.3,4,64, , ,4000,"₹18,900"
+Vivo S1 ,Diamond Black,128,4.4,6,128,6.38,32,4500,"₹19,990"
+Lava A1, , ,4.2,24,24,1.77, ,800,₹999
+Micromax X381, , ,3.8,32,32, , ,800,₹995
+I kall k6300 NEW, , ,4.3,32,32, , ,3000,"₹1,499"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Nokia 2.3 ,Sand,32,4,2,32,6.2,5,4000,"₹9,499"
+I Kall K 54, , ,3.6,32,32, , ,1000,₹639
+Honor 20 ,Sapphire Blue,128,4.4,6,128, , ,3750,"₹22,999"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+POCO F1 ,Armoured Edition,256,4.5,8,256,6.18,20,4000,"₹22,999"
+Samsung Galaxy A20s ,Blue,64,4.3,4,64,6.5,8,4000,"₹14,900"
+Muphone M380, , ,3.9,32,32, , ,800,₹890
+I Kall K28, , ,3.4,32,64, , , ,₹639
+Samsung Galaxy S10 Lite ,Prism White,128,4.5,8,128,6.7,32,4500,"₹42,999"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Megus Ultra, , ,3.9,32,32, , ,2700,"₹1,099"
+Nokia TA-1010/105, , ,4.3,4,4, , , ,"₹1,269"
+POCO F1 ,Graphite Black,256,4.5,8,256,6.18,20,4000,"₹22,999"
+Micromax X742, , ,3.8,32,32, , ,1000,"₹1,280"
+Redmi K20 Pro ,Carbon Black,256,4.5,8,256, , ,4000,"₹29,999"
+Detel D1 Champ, , ,3.7,32,32, , ,1000,₹645
+I Kall K11 Combo Of Two Mobile, , ,3.4,32,64,1.8, ,1000,"₹1,099"
+Micromax X1i-2017, , ,3.9,32,32, , ,1300,"₹1,350"
+Huawei Y9 Prime 2019 ,Sapphire Blue,128,4.3,4,128,Data Cable, ,4000,"₹16,899"
+Samsung Galaxy A70s ,Prism Crush White,128,4.2,6,128,6.7,32,4500,"₹25,900"
+MTR Ferrari, , ,4.1,64,64, , ,800,"₹1,275"
+OPPO F9 Pro ,Twilight Blue,64,4.5,6,64,6.3,25,3500,"₹18,990"
+Wizphone WP ,Black,16, ,2,16, , ,2400,"₹5,498"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Samsung Galaxy A50 ,White,64,4.4,6,64,6.4,25,4000,"₹18,999"
+I Kall K24 New Combo of Two Mobiles, , ,3.6,32,64, , ,1000,"₹1,099"
+Jmax M40, , ,3.6,32,32, , ,1050,₹699
+OPPO Reno2 ,Luminous Black,256,4.5,8,256,6.5,16,4000,"₹38,990"
+Samsung Galaxy A50s ,Prism Crush Black,128,4.3,4,128, , ,4000,"₹18,570"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Kechaoda K111, , ,4.1,32,32, , ,800,₹985
+Kechaoda K111, , ,4.1,32,32, , ,800,₹985
+LG V30+ ,Black,128,4.3,4,128,6,5,3300,"₹24,999"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+I Kall K11, , ,3.4,32,64, , ,1000,₹599
+Mi 10 ,Twilight Grey,128,4.6,8,128, , ,,"₹51,988"
+Nokia 105 ss, , ,4.3,4,4, , , ,"₹1,000"
+Karbonn K24 Plus Pro, , ,3.8,32,32,2.4, ,1800,"₹1,390"
+I Kall K3312 Combo, , ,3.5,32,64,1.8,0.3,,"₹1,199"
+POCO F1 ,Steel Blue,128,4.5,6,128,6.18,20,4000,"₹18,999"
+Samsung Galaxy A70s ,Prism Crush Red,128,4.4,8,128,6.7,32,4500,"₹29,999"
+OPPO A9 ,Marble Green,128,4.4,4,128,6.53,16,4020,"₹16,490"
+OnePlus 7 ,Mirror Grey,256,4.6,8,256, , ,3700,"₹36,999"
+OnePlus 7 ,Mirror Grey,128,4.6,6,128, , ,3700,"₹32,999"
+Peace P4, , ,3.5,64,256, , ,850,₹697
+Easyfone Star, , ,3.8,32,32,1.7, , ,"₹3,999"
+LG Q Stylus ,Black,32,3.8,3,32,6.2,8,,"₹15,899"
+Blackbear I7 Trio, , ,3.7,32,32, , ,1550,"₹1,699"
+Jmax M40 Combo of Two, , ,3.8,32,32, , ,1050,"₹1,299"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Micromax X742, , ,3.8,32,32, , ,1000,"₹1,240"
+Karbonn KX23, , ,4,32,32, , ,1900,"₹1,399"
+Samsung Galaxy S10 Lite ,Prism Black,512,4.5,8,512,6.7,32,4500,"₹47,999"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Apple iPhone 11 Pro Max ,Space Grey,64,4.7,64, , , ,A13,"₹1,17,100"
+OPPO R17 Pro ,Emerald Green,128,4.1,8,128, , ,3700,"₹31,590"
+Apple iPhone 11 Pro ,Space Grey,512,4.7,512, , , ,A13,"₹1,40,300"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Lava A1, , ,4.2,4,24,1.77, ,800,"₹1,100"
+I Kall K23 New Mobile, , ,3.6,64,32, , ,1000,₹649
+Snexian Guru 332, , , ,32,32, , ,1000,₹649
+Snexian Guru 332, , , ,32,32, , ,1000,₹649
+OnePlus 6T ,Speed Orange,256,4.3,10,256, , ,3700,"₹39,999"
+Itel it5607, , ,4,32,32, , ,2500,"₹1,139"
+Lava A7, , ,4.2,32,24,2.4, ,1750,"₹1,799"
+Karbonn K334, , ,3.7,32,32, , ,1750,₹927
+Karbonn K-Pebble, , ,3.9,12,12, , ,800,"₹1,579"
+Nokia 2.3 ,Cyan Green,32,4,2,32,6.2,5,4000,"₹9,999"
+InFocus Selfie C1, , ,3.9,32,32, , ,1000,₹999
+Tecno Camon 15 Pro ,Opal White,128,4.2,6,128,6.53,32,,"₹15,999"
+Karbonn K49, , ,3.8,32,32,2.4, ,1450,"₹1,149"
+Samsung Guru GT, , ,4.1,153,153, , , ,"₹1,549"
+MI3 ,Metallic Grey,16,4.4,2,16, , ,,"₹13,999"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Apple iPhone 11 Pro ,Gold,64,4.7,64, , , ,A13,"₹1,06,600"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹945
+Micromax X772, , ,3.9,20,20, , ,1700,"₹1,499"
+Micromax X1i-2017, , ,3.8,32,Expandable, , ,1300,"₹1,140"
+Grabo G100, , ,3.7,64,64, , ,1000,₹479
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Redmi K20 ,Pearl White,128,4.5,6,128, , ,4000,"₹24,999"
+I Kall K65, , ,3.3,32,64, , ,1000,"₹1,399"
+Salora Kiano, , ,3.9,32,32, , ,1200,"₹1,299"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Apple iPhone 11 Pro Max ,Silver,64,4.7,64, , , ,A13,"₹1,17,100"
+Lava A7, , ,4.2,32,24,2.4, ,1750,"₹1,599"
+Vivo Y81 ,Gold,32,4.3,4,32,6.22,5,,"₹13,950"
+OPPO R17 ,Neon Purple,128, ,8,128, , ,3500,"₹22,999"
+OPPO R17 ,Ambient Blue,128, ,8,128, , ,3500,"₹22,999"
+Tork T13 Banana, , ,4.1,32,32,2.4, ,1000,₹898
+Jmax M43, , ,3.6,32,32, , ,1000,₹699
+Jivi X606 Plus, , ,3.2,5,32,1.8,0,1800,₹899
+Google Pixel 3a XL ,Just Black,64,4.5,4,64, , ,,"₹34,999"
+Nokia 110, , ,4.1,4,4,1.77, ,800,"₹2,099"
+MTR Shakti, , ,4.1,32,32, , ,800,₹649
+MTR Shakti, , ,4.1,32,32, , ,800,₹649
+Karbonn K140 Pop, , ,3.9,32,32,1.8, ,1000,₹899
+Samsung Galaxy A21s ,White,64,4.3,4,64,6.5,13,5000,"₹16,499"
+MTR Banana, , ,4.3,64,64, , ,800,₹649
+I Kall K3310 Combo Of Two Mobile, , ,3.7,32,64,1.8, ,1000,"₹1,199"
+Redmi Y2 ,Gold,64,4.4,4,64,5.99,16,3080,"₹13,495"
+OPPO A3s ,Purple,16,4.4,2,16,6.2,8,4230,"₹7,490"
+Nokia 7.2 ,Charcoal,64,4.2,6,64,6.3,20,3500,"₹18,099"
+Lava One, , ,4.1,32,25,2.4, ,1000,"₹1,369"
+Itel It 2190, , ,4.1,32,32,1.8,0,,"₹1,099"
+Redmi Note 6 Pro ,Black,64,4.5,6,64,6.26,20,4000,"₹17,999"
+nuvo One-Echo ,Without Accessories , ,3.7,1,Expandable, , ,800,₹599
+I Kall K3312, , ,3.5,32,64,1.8, ,1000,₹749
+Itel it6130, , ,4.6,32,32, , ,1200,"₹1,425"
+Karbonn K338N, , ,3.7,32,32, , ,3000,"₹1,299"
+I Kall K73, , ,3.2,32,64, , , ,₹539
+Karbonn K19 Rock, , ,3.9,32,32,1.8, ,1750,₹999
+Karbonn K140 Pop, , ,3.9,32,32, , ,1000,₹813
+GAMMA K1 Nano, , ,3.8,32,32, , ,1000,₹890
+Vivo S1 ,Diamond Black,64,4.4,6,64,6.38,32,4500,"₹18,999"
+Samsung Guru 1200, , ,4.3,, , , , ,"₹1,200"
+I Kall K22 New, , ,3.6,32,64, , ,1000,₹649
+Lava H1 Hero 600, , ,4,24,24, , , ,₹799
+I Kall K3310 Combo Of Two Mobile, , ,3.7,32,64,1.8, ,1000,"₹1,199"
+Ssky K-2, , ,3.6,32,256, , ,1050,₹799
+Gamma F1 FOUR SIM, , ,3.8,32,32, , ,2200,"₹1,299"
+I Kall K33 Combo of Two Mobiles, , ,3.8,32,64,2.4, ,1500,"₹1,299"
+Tork T13 Banana, , ,4.1,32,32,2.4, ,1000,₹899
+Micromax X773, , ,3.8,25,25, , ,1000,"₹1,199"
+Samsung Galaxy S10 ,Prism Blue,128,4.6,8,128,6.1,10,3400,"₹57,800"
+Apple iPhone XS ,Space Grey,512,4.7,512, , , ,A12,"₹1,09,799"
+Hicell C9 Metro, , ,3.6,32,64,1.8, ,1050,₹629
+Easyfone Elite, , ,4.1,32,32,2.4, ,1000,"₹3,149"
+Hicell C9 Metro, , ,3.6,32,64,1.8, ,1050,₹629
+Peace P1, , ,3.6,32,32, , ,850,₹750
+Peace P3, , ,3.7,32,64, , ,850,₹660
+LG Optimus L70 ,Black,4,4.1,1,4,4.5,0.3,,"₹12,791"
+Samsung Galaxy A80 ,Phantom Black,128,4.4,8,128,F2.0, ,3700,"₹52,962"
+Itel It 2163, , ,4,32,32,1.8, , ,₹948
+Apple iPhone 11 Pro ,Silver,64,4.7,64, , , ,A13,"₹1,06,600"
+I Kall K3312, , ,3.5,32,64,1.8,0.3,,"₹1,299"
+InFocus F229, , ,4,32,32,2.4, ,3000,"₹1,640"
+OPPO A5 2020 ,Mirror Black,64,4.4,4,64, , ,5000,"₹15,990"
+Alcatel 5V ,Spectrum Black,32,4.4,3,32, , ,4000,"₹12,999"
+Inovu A7i, , ,3.4,32,32,1.77, , ,₹735
+Realme C2 ,Diamond Blue,16,4.4,2,16,6.1,5,4000,"₹6,499"
+InFocus VIBE 2, , ,4.2,32,32, , ,1000,₹990
+Itel It 2190, , ,4.1,32,32,1.8, ,1000,"₹1,099"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+MTR MT310, , ,3.8,64,64, , ,800,₹649
+I Kall K 2180 Combo of Two Mobiles, , ,3.8,32,32, , ,1000,"₹1,199"
+Honor 10 Lite ,Midnight Black,32,4.4,3,32,6.21,24,3400,"₹13,999"
+Micromax X412, , ,3.9,32,32, , , ,"₹1,199"
+Jivi 12M Plus, , ,4.1,1,16,1.8,0,1000,₹799
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+MTR Simmba, , ,4.2,64,64, , ,800,₹699
+Honor 9N ,Midnight Black,64,4.3,4,64,5.84es,16,3000,"₹15,999"
+Callbar A35S, , ,3.4,0, , , ,800,₹595
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+POCO F1 ,Rosso Red,64,4.5,6,64,6.18,20,4000,"₹21,999"
+Forme N1, , ,3.6,32,32,1.8, ,850,₹799
+Yuho O1 ,Onyx Black,16,3.3,2,16,5, ,2000,"₹7,199"
+Lava A1200, , ,4.2,32,24,1.8, ,1750,"₹1,349"
+Lava 34 Plus, , ,4.2,32,32,2.4, ,2500,"₹1,699"
+Jmax M43, , ,3.6,32,32, , ,1050,₹699
+Vivo V17Pro ,Glacier Ice White,128,4.5,8,128, , ,4100,"₹25,800"
+I Kall K 32, , ,3.7,32,64, , ,1000,₹639
+Honor 9i ,Aurora Blue,64,4.3,4,64,5.9,13,3340,"₹19,999"
+Gionee Marathon M5 Plus ,Champagne Gold,64,4.1,3,64,6,5,,"₹26,999"
+I Kall K28, , ,3.4,32,64, , , ,₹639
+Lava A1 super, , ,4.1,4,3,1.8, ,800,₹949
+Ssky S-20 Eco, , ,3.8,32,64,1.8, ,1000,₹749
+Apple iPhone XS ,Silver,256,4.7,256, , , ,A12,"₹84,900"
+I Kall K3310 Combo Of Two Mobile, , ,3.7,32,64,1.8, ,1000,"₹1,199"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Karbonn K2 Boom Box, , ,3.9,32,32, , ,1000,₹950
+MTR Shakti, , ,4.1,32,32, , ,800,₹649
+Samsung Metro 313 Dual Sim, , ,4.2,16,2, , ,1000,"₹2,025"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+MTR Shakti, , ,4.1,32,32, , ,800,₹649
+Vivo Y81 ,Black,32,4.4,3,32,6.1,5,,"₹13,990"
+Mi A3 ,Kind of Grey,128,4.2,6,128,6.08,32,4030,"₹17,399"
+Samsung Galaxy S10e ,Prism Black,128,4.5,6,128,5.8,10,3100,"₹59,000"
+F-Fook F22, , ,3.5,1,20,2.4, ,1400,₹849
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Itel It 5022, , ,4.1,32,32,2.4, ,1000,"₹1,199"
+Trio T6*, , ,3.3,32,256, , ,1000,₹715
+Intex Eco Selfie 2, , ,3.9,34, , , ,800,₹955
+Vivo Y17 ,Mystic Purple,128,4.4,4,128,6.35,20,5000,"₹13,900"
+Lava Spark i8, , ,4.1,32,32,2.8, ,1200,"₹1,489"
+Huawei P9 ,Prestige Gold,32,4.5,3,32,5.2,8,3000,"₹39,999"
+I Kall K130 New, , ,3.4,32,64, , ,800,₹659
+Itel It 2161, , ,4,32,32,1.8, , ,₹899
+Honor 5X ,Gold,16,4.1,2,16,5.5,5,,"₹13,999"
+Mafe Micra, , ,4.3,32,Expandable, , ,1500,₹770
+Redmi K20 Pro ,Pearl White,256,4.5,8,256, , ,4000,"₹29,999"
+Vivo Y66 ,Crown Gold,32,4.3,3,32,5.5,16,,"₹14,990"
+Vivo V7 ,Gold,32,4.4,4,32,5.7,24,,"₹18,990"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+OPPO A83 ,Champagne,16,4.2,2,16,5.7,8,,"₹9,490"
+Nokia 4.2 ,Black,32,4.1,3,32,5.71,8,3000,"₹10,147"
+Redmi K20 ,Carbon Black,128,4.5,6,128, , ,4000,"₹24,999"
+Micromax X811, , ,3.8,32,32, , ,1000,"₹1,476"
+Samsung Galaxy A30s ,Prism Crush Black,64,4.3,4,64, , ,4000,"₹18,900"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+I Kall K20 New Combo of Two Mobiles, , ,3.4,32,64, , ,1000,"₹1,199"
+Karbonn KX1, , ,3.9,32,32, , ,800,₹899
+I Kall K3310, , ,3.7,32,64,1.8, ,1000,₹639
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Nokia 216/216 DS, , ,4.3,16,,2.4,0.3,,"₹2,450"
+Redmi K20 ,Pearl White,64,4.5,6,64, , ,4000,"₹21,999"
+Samsung Galaxy S20+ ,Cosmic Black,128,4.5,8,128,6.7,10,,"₹77,999"
+GAMMA K 28, , , ,32,32, , ,1000,"₹1,099"
+MTR MT 310, , ,3.7,64,64, , ,800,₹650
+Q-Tel Q8, , ,3.4,32,32, , ,800,₹559
+Dublin D613, , ,4.5,32,64, , ,1800,₹649
+Apple iPhone XR ,Yellow,128,4.6,128, , , ,,"₹57,800"
+Karbonn K Pebble, , ,4,32,32, , ,800,"₹1,690"
+Vivo Y91i ,Fusion Black,32,4.3,3,32,6.22,5,,"₹10,190"
+Kechaoda K111, , ,4.1,32,32, , ,800,₹985
+Samsung Galaxy S20 Ultra ,Cosmic Gray,128,4.1,12,128,6.9,40,,"₹97,999"
+Tecno Camon i4 ,Nebula Black,32,4.1,2,32,6.2,16,3500,"₹7,599"
+Vivo V17 ,Admiral Blue,128,4.5,8,128,6.44, ,4500,"₹23,949"
+Vivo V11 ,Starry Night Black,64,4.5,6,64,6.3,25,3315,"₹24,990"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Vivo V11 ,Nebula Purple,64,4.5,6,64,6.3,25,3315,"₹24,990"
+I Kall K 15, , ,3.5,32,64, , ,800,₹639
+Samsung Metro 313 Dual Sim, , ,4.2,4,2.27,2.03, ,1000,"₹2,025"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Salora Kiano, , ,3.9,32,32, , ,1200,"₹1,299"
+I Kall K39 Mobile, , ,3.5,32,64, , ,1500,₹749
+Micromax X707, , ,3.6,6.1, , , ,1000,"₹1,190"
+OPPO A5s ,Blue,32,4.3,3,32,6.2,8,4230,"₹13,744"
+MTR Mt312, , ,3.6,64,64, , ,800,₹650
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Karbonn K49, , ,3.8,32,32,2.4, ,1450,"₹1,149"
+MI3 ,Metallic Grey,16,4.4,2,16, , ,,"₹13,999"
+Apple iPhone 11 Pro ,Gold,64,4.7,64, , , ,A13,"₹1,06,600"
+Micromax X1i-2017, , ,3.8,32,Expandable, , ,1300,"₹1,140"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹945
+Micromax X772, , ,3.9,20,20, , ,1700,"₹1,499"
+Samsung Guru GT, , ,4.1,153,153, , , ,"₹1,549"
+Redmi K20 ,Pearl White,128,4.5,6,128, , ,4000,"₹24,999"
+Salora Kiano, , ,3.9,32,32, , ,1200,"₹1,299"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+I Kall K27 New, , ,3.5,32,64, , ,800,₹639
+Mi 10 ,Coral Green,128,4.6,8,128, , ,,"₹48,990"
+Lava A7, , ,4.2,32,24,2.4, ,1750,"₹1,599"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+OPPO R17 ,Ambient Blue,128, ,8,128, , ,3500,"₹22,999"
+Vivo Y81 ,Gold,32,4.3,4,32,6.22,5,,"₹13,950"
+OPPO R17 ,Neon Purple,128, ,8,128, , ,3500,"₹22,999"
+I Kall K18 New Combo of Two Mobiles, , ,3.6,32,64, , ,800,"₹1,199"
+LG Q7 ,Black,32,3.1,3,32,5.5,5,,"₹11,999"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Tork T13 Banana, , ,4.1,32,32,2.4, ,1000,₹898
+Jmax M43, , ,3.6,32,32, , ,1000,₹699
+Jivi X606 Plus, , ,3.2,5,32,1.8,0,1800,₹899
+Google Pixel 3a XL ,Just Black,64,4.5,4,64, , ,,"₹34,999"
+Nokia 110, , ,4.1,4,4,1.77, ,800,"₹2,099"
+Nokia 5 ,Tempered Blue,16,4,2,16,5.2,8,,"₹11,990"
+Karbonn KX1, , ,3.9,32,32,1.8, ,800,₹899
+Infinix Note 5 Stylus ,Charcoal Blue,64,3.9,4,64,5.93,16,,"₹10,999"
+I Kall K3310 Combo Of Two Mobile, , ,3.7,32,64,1.8, ,1000,"₹1,099"
+F-Fook F22, , ,3.1,100,100, , ,1000,₹699
+Samsung Galaxy A21s ,White,64,4.3,4,64,6.5,13,5000,"₹16,499"
+MTR Shakti, , ,4.1,32,32, , ,800,₹649
+Lava H1 Hero 600, , ,4,24,24, , , ,₹799
+I Kall K3310 Combo Of Two Mobile, , ,3.7,32,64,1.8, ,1000,"₹1,199"
+I Kall K22 New, , ,3.6,32,64, , ,1000,₹649
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Gamma F1 FOUR SIM, , ,3.8,32,32, , ,2200,"₹1,299"
+Ssky K-2, , ,3.6,32,256, , ,1050,₹799
+Mi A2 ,Red,128,4.1,6,128, , ,3010,"₹16,899"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Tork T13 Banana, , ,4.1,32,32,2.4, ,1000,₹899
+Ssky S-40 Prime, , ,3.7,32,32,1.8, ,1000,₹749
+Samsung Guru FM Plus, , ,4.2,3.81, , , ,800,"₹1,662"
+Micromax X773, , ,3.8,25,25, , ,1000,"₹1,199"
+Samsung Galaxy S10 ,Prism Blue,128,4.6,8,128,6.1,10,3400,"₹57,800"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Apple iPhone XS ,Space Grey,512,4.7,512, , , ,A12,"₹1,09,799"
+Hicell C9 Metro, , ,3.6,32,64,1.8, ,1050,₹629
+Hicell C9 Metro, , ,3.6,32,64,1.8, ,1050,₹629
+Easyfone Elite, , ,4.1,32,32,2.4, ,1000,"₹3,149"
+LG Optimus L70 ,Black,4,4.1,1,4,4.5,0.3,,"₹12,791"
+Inovu A7, , ,3.4,32,32,1.77, ,1000,₹785
+Peace P3, , ,3.7,32,64, , ,850,₹660
+Peace P1, , ,3.6,32,32, , ,850,₹750
+Samsung Galaxy A80 ,Phantom Black,128,4.4,8,128,F2.0, ,3700,"₹52,962"
+Apple iPhone 11 Pro ,Silver,64,4.7,64, , , ,A13,"₹1,06,600"
+InFocus F229, , ,4,32,32,2.4, ,3000,"₹1,640"
+Alcatel 5V ,Spectrum Black,32,4.4,3,32, , ,4000,"₹12,999"
+Inovu A7i, , ,3.4,32,32,1.77, , ,₹735
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Itel It 2190, , ,4.1,32,32,1.8, ,1000,"₹1,099"
+MTR MT310, , ,3.8,64,64, , ,800,₹649
+InFocus VIBE 2, , ,4.2,32,32, , ,1000,₹990
+Realme C2 ,Diamond Blue,16,4.4,2,16,6.1,5,4000,"₹6,499"
+Mi A2 ,Blue/Lake Blue,64,4.2,4,64, , ,3010,"₹14,990"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Samsung Galaxy S8 Plus ,Maple Gold,64,4.6,4,64,6.2,8,,"₹53,990"
+Honor 10 Lite ,Midnight Black,32,4.4,3,32,6.21,24,3400,"₹13,999"
+I Kall K 2180 Combo of Two Mobiles, , ,3.8,32,32, , ,1000,"₹1,199"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Micromax X412, , ,3.9,32,32, , , ,"₹1,199"
+InFocus Hero Selfie C1, , ,3.9,32,32, , ,,₹950
+Jivi 12M Plus, , ,4.1,1,16,1.8,0,1000,₹799
+MTR Simmba, , ,4.2,64,64, , ,800,₹699
+Honor 9N ,Midnight Black,64,4.3,4,64,5.84es,16,3000,"₹15,999"
+Callbar A35S, , ,3.4,0, , , ,800,₹595
+Yuho O1 ,Onyx Black,16,3.3,2,16,5, ,2000,"₹7,199"
+Forme N1, , ,3.6,32,32,1.8, ,850,₹799
+JIVI JV 12M, , ,4,30,0,1.8, , ,₹799
+Lava A1200, , ,4.2,32,24,1.8, ,1750,"₹1,349"
+Vivo V17Pro ,Glacier Ice White,128,4.5,8,128, , ,4100,"₹25,800"
+Honor 9i ,Aurora Blue,64,4.3,4,64,5.9,13,3340,"₹19,999"
+I Kall K55 Combo Of Two Mobile, , ,3.5,32,64,1.8, ,1000,"₹1,199"
+OPPO Find X ,Glacier Blue,256,4.6,8,256, , ,3730,"₹60,990"
+I Kall K55 Combo Of Two Mobile, , ,3.5,32,64,1.8, ,1000,"₹1,199"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Gionee Marathon M5 Plus ,Champagne Gold,64,4.1,3,64,6,5,,"₹26,999"
+I Kall K28, , ,3.4,32,64, , , ,₹639
+Kechaoda K66 The Music House 4, , ,4,32,64, , , ,"₹1,040"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Lava A1 super, , ,4.1,4,3,1.8, ,800,₹949
+ROKEA R222, , ,3.6,256,32,1.44, ,800,₹840
+I Kall lk22 new, , ,3.6,32,64, , ,1000,₹639
+Itel IT5025, , ,3.9,32,32,2.4, ,1200,"₹1,199"
+GreenBerry 312, , ,3.4,32,64,1.8, ,1000,₹599
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Itel It2171, , ,4,32,32,1.8, ,1000,₹849
+Itel It2171, , ,4,32,32, , ,1000,₹850
+Apple iPhone XS ,Silver,256,4.7,256, , , ,A12,"₹84,900"
+Ssky S-20 Eco, , ,3.8,32,64,1.8, ,1000,₹749
+I Kall K3310 Combo Of Two Mobile, , ,3.7,32,64,1.8, ,1000,"₹1,199"
+Vivo Y81 ,Black,32,4.4,3,32,6.1,5,,"₹13,990"
+Karbonn K2 Boom Box, , ,3.9,32,32, , ,1000,₹950
+Samsung Metro 313 Dual Sim, , ,4.2,16,2, , ,1000,"₹2,025"
+I Kall K99 Combo Of Two Mobile, , ,3.5,32,64,1.8, ,1000,"₹1,099"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Heemax H10, , , ,32,32, , ,2500,₹799
+Apple iPhone XS ,Silver,512,4.7,512, , , ,A12,"₹1,14,900"
+ITEL IT5025, , ,3.9,32,32,2.4, ,1200,"₹1,273"
+OPPO F9 Pro ,Sunrise Red,64,4.5,6,64,6.3,25,3500,"₹19,990"
+Redmi Note 7 Pro ,Nebula Red,128,4.4,6,128,6.3,13,4000,"₹17,990"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+MTR BANANA, , ,4.3,64,64, , ,800,₹649
+OPPO F11 Pro ,Aurora Green,64,4.4,6,64,6.5,16,4000,"₹24,990"
+I kall k6300 NEW, , ,4.3,32,32, , ,3000,"₹1,499"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Kechaoda K35, , ,4,32,32,2.8,0.3,,"₹1,300"
+I Kall K3310, , ,3.7,32,64, , ,1000,₹639
+Itel It 2161, , ,4,32,32,1.8, , ,₹998
+Peace FM1, , ,3.5,64,32, , ,850,₹799
+Nokia 3.2 ,Black,32,4.1,3,32,6.26,5,,"₹10,110"
+Itel Magic 1, , ,4.2,32,32,2.4,0.3,,"₹1,549"
+Heemax H1 Star, , ,3.1,32,32, , ,1000,₹599
+Peace P2, , ,3.6,4.57, , , ,850,₹635
+I Kall K22 Combo of Two Mobiles, , ,3.3,32,64, , ,800,"₹1,198"
+Vivo V7+ ,Gold,64,4.4,4,64,5.99,24,,"₹22,221"
+Karbonn K5 Plus, , ,4,32,32,1.8, ,1750,₹949
+Gionee S10 Lite ,Black,32,4.1,4,32,5.2,16,,"₹11,499"
+Samsung Galaxy A70 ,White,128,4.3,6,128,6.7,32,4500,"₹29,999"
+Ziox X73, , ,3,32,32, , ,1000,₹780
+Samsung Galaxy Note 10 ,Aura Black,256,4.5,8,256, , ,3500,"₹75,000"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+MTR Mt310, , ,3.8,64,64, , ,800,₹649
+Karbonn K59 STAR, , , ,32,32, , ,1000,"₹1,199"
+Samsung Galaxy A30s ,Prism Crush Violet,64,4.3,4,64, , ,4000,"₹18,900"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Mafe Guru, , ,3.4,Expandable, , , ,1050,₹845
+InFocus Hero Selfie C2, , ,3.8,24,24, , ,,"₹1,280"
+Samsung Galaxy A70s ,Prism Crush Red,128,4.2,6,128,6.7,32,4500,"₹25,990"
+GreenBerry Music, , ,3,32,32, , ,,₹599
+Honor 9N ,Sapphire Blue,128,4.3,4,128,5.84es,16,3000,"₹19,999"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+I Kall K20 New Combo of Two Mobiles, , ,3.4,32,64, , ,1000,"₹1,199"
+Mymax M8110, , ,3.6,32,32, , ,1500,₹755
+Itel Muzik 400, , ,4.1,4,4,2.4, ,3000,"₹1,563"
+I Kall K71 Combo of Two Mobile, , ,3.2,32,64, , , ,₹899
+Itel Muzik 400, , ,4.1,4,4,2.4, ,3000,"₹1,540"
+Micromax X072, , ,3.8,56,56,4.4, , ,"₹1,290"
+MTR MT310, , ,3.8,64,64, , ,800,₹649
+Kechaoda K28, , ,4,32,64,2.4, ,1700,"₹1,250"
+I Kall K28, , ,3.4,32,64, , , ,₹639
+Micromax X807, , ,4,32,32, , ,1450,"₹1,999"
+Celkon Cliq 2 ,Black&Grey,32,3,3,32,5,8,,"₹8,110"
+OPPO F11 ,Marble Green,128,4.4,6,128,6.53,16,4020,"₹17,990"
+Salora Zing+, , ,3.7,32,32, , ,1800,"₹1,049"
+Lava One, , ,4.1,32,25,2.4, ,1000,"₹1,500"
+I Kall K3310 Combo of Three Mobiles, , ,3.6,32,64, , ,800,"₹1,499"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Forme Turbo1, , ,4.8,12,15, , ,1800,₹899
+GreenBerry 3310, , ,3.1,32,32, , ,,₹599
+GreenBerry 3310, , ,3.1,32,32, , ,,₹599
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Trio T6XL, , ,3.5,32,32, , ,1800,₹891
+I Kall K88 Combo Of Two Mobile, , ,3.5,32,64,1.8, ,1000,"₹1,099"
+I Kall K24 New, , ,3.5,32,64, , ,1000,₹599
+I Kall K24 New, , ,3.5,32,64, , ,1000,₹639
+nuvo One, , ,3.8,32,Expandable, , ,800,₹649
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Nokia 4.2 ,Pink Sand,32,4.1,3,32,5.71,8,3000,"₹12,990"
+Nokia 216, , ,4.2,16,16, , ,1020,"₹2,499"
+Micromax X781, , ,3.8,32,256, , ,2800,"₹1,450"
+Kechaoda K28, , ,4,32,64,2.4, ,1700,"₹1,260"
+Honor 9x Pro ,Phantom Purple,256,4.1,6,256,6.59,16,4000,"₹17,999"
+Salora Atom, , ,3.6,32,32, , ,1000,₹649
+Micromax X419, , , ,32,32, , ,1750,"₹1,049"
+I Kall K27 New Combo of Three Mobiles, , ,3.7,32,64, , ,800,"₹1,795"
+I Kall K99 Combo Of Two Mobile, , ,3.5,32,64,1.8, ,1000,"₹1,099"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+I Kall K14 Combo of Two Mobiles, , ,3.4,32,32, , , ,"₹1,099"
+Tork T27 Boom, , , ,32,32, , ,2800,"₹1,299"
+InFocus Hero Selfie C1, , ,3.9,32,32,1.8, ,1000,₹899
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Jmax M43 Combo of two, , ,3.9,32,32, , ,1050,"₹1,299"
+Kechaoda A 31, , ,4,32,32, , ,800,"₹1,060"
+I Kall K3310, , ,3.7,32,64,1.8, ,1000,₹649
+Mafe X1, , ,3.7,32,64,1.8, ,1050,₹699
+I Kall K28 Combo of Two Mobiles, , ,3.4,32,64, , , ,"₹1,099"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+MU M370, , ,4.3,32,32, , ,700,₹980
+MU M370, , ,4.3,32,32, , ,700,₹980
+Huawei P9 ,Titanium Grey,32,4.5,3,32,5.2,8,3000,"₹39,999"
+Huawei P9 ,Mystic Silver,32,4.5,3,32,5.2,8,3000,"₹39,999"
+JIVI N201 Selfie, , ,3.8,0.032,Expandable, , ,,"₹1,198"
+I Kall K22 New, , ,3.6,32,64, , ,1000,₹649
+Apple iPhone 11 Pro ,Midnight Green,256,4.7,256, , , ,A13,"₹1,21,300"
+Samsung Galaxy Note 9 ,Alpine White,128,4.6,6,128,6.4,8,4000,"₹73,600"
+Apple iPhone XS Max ,Space Grey,512,4.6,512, , , ,A12,"₹1,19,900"
+I Kall K19, , ,2.1,32,32,2.8, ,2500,"₹1,699"
+itel it5617, , ,3.9,32,32, , ,2500,"₹1,499"
+Lenovo K8 ,Fine Gold,32,4.1,3,32,5.2,8,,"₹11,499"
+InFocus Hero Power B1, , ,4,32,32, , ,3000,"₹1,640"
+Asus Zenfone 3 Laser ,Silver,32,4,4,32,5.5,8,,"₹19,999"
+I Kall K22 Combo of Two Mobiles, , ,3.3,32,32, , ,800,"₹1,199"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+I Kall K900 ,Dark Blue,64,3.1,4,64, , ,,"₹6,999"
+MTR Bullet, , ,4.3,64,64, , ,2000,"₹1,049"
+I Kall K9 ,Blue,16,3.5,2,16, , ,2800,"₹5,499"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Trio T3 Selfie, , ,3.3,32,64, , ,1000,₹700
+Coolpad Mega 5C ,Grey,16,3.5,2,16, , ,2500,"₹5,999"
+BlackBear i7, , ,3.8,32,32,2, ,1550,"₹1,690"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Peace P1 Wireless FM, , ,3.7,32,32, , ,850,₹659
+Samsung Guru FM Plus, , ,4.2,128, , , , ,"₹1,450"
+MIXX M1 Mini, , , ,64,64, , ,800,₹799
+MTR Rowdy, , , ,64,64, , ,2000,"₹1,599"
+MIXX M1 Mini, , , ,64,64, , ,800,₹799
+Itel it2172, , ,4.1,32,32,1.8, ,1000,"₹1,115"
+Itel IT5025, , ,3.9,32,32,2.4, ,1200,"₹1,289"
+MTR Mt07, , ,3.7,64,64, , ,800,₹999
+MTR Mt07, , ,3.7,64,64, , ,800,"₹1,099"
+MTR Mt07, , ,3.7,64,64, , ,800,₹999
+Heemax H9, , , ,32,32, , ,1000,₹699
+Heemax H9, , , ,32,32, , ,1000,₹699
+Heemax H2 Combo of Two mobiles, , ,2.8,32,32, , ,1000,"₹1,099"
+Redmi Note 6 Pro ,Rose Gold,64,4.5,6,64,6.26,20,4000,"₹17,999"
+Honor 8X ,Blue,64,4.4,6,64,6.5,16,3750,"₹19,999"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Nokia 3.1 Plus ,Charcoal,32,4.2,3,32, , ,3500,"₹12,700"
+Nuvo Flash Echo, , ,3.8,1,1,2.4, ,1000,₹849
+nuvo FLASH, , ,3.6,32,32,2.4, ,1000,₹899
+nuvo FLASH, , ,3.6,32,32,2.4, ,1000,₹849
+nuvo FLASH, , ,3.6,32,32,2.4, ,1000,₹899
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+nuvo FLASH, , ,3.6,32,32,2.4, ,1000,₹899
+Vivo Y17 ,Mineral Blue,128,4.4,4,128,6.35,20,5000,"₹13,900"
+Vivo Y95 ,Nebula Purple,64,4.4,4,64,6.22,20,4030,"₹14,990"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+I Kall K4 ,Sea Blue,16,3.4,2,16, , ,2500,"₹4,899"
+"nuvo 2.4"" Display with 2500mAh Battery and Selfie Camera", , , ,32,32, , ,2500,"₹1,049"
+Kechaoda K103, , ,4.1,32,64,2.8, ,1700,"₹1,299"
+MTR MT Bullet, , ,4.2,64,64, , ,1200,"₹1,499"
+EcoTel E12, , ,3.3,32,64, , ,1000,₹580
+EcoTel E12, , ,3.3,32,64, , ,1000,₹580
+MTR Guru, , ,3.9,64,64, , ,800,"₹1,199"
+Itel Magic 1, , ,4.2,32,32,2.4,0.3,,"₹1,549"
+Usha Shriram NJ-2 AMAZE, , , ,32,128, , ,2500,"₹1,090"
+Redmi Note 7 ,Onyx Black,64,4.5,4,64,6.3,13,4000,"₹15,499"
+Huawei P9 ,Titanium Grey,32,4.5,3,32,5.2,8,3000,"₹39,999"
+Huawei P9 ,Mystic Silver,32,4.5,3,32,5.2,8,3000,"₹39,999"
+JIVI N201 Selfie, , ,3.8,0.032,Expandable, , ,,"₹1,198"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Kechaoda K28, , ,4,32,64,2.4, ,1700,"₹1,260"
+Apple iPhone XS Max ,Space Grey,512,4.6,512, , , ,A12,"₹1,19,900"
+itel it5617, , ,3.9,32,32, , ,2500,"₹1,499"
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Samsung Galaxy Note 9 ,Alpine White,128,4.6,6,128,6.4,8,4000,"₹73,600"
+I Kall K9 ,Blue,16,3.5,2,16, , ,2800,"₹5,499"
+Tork X1, , , ,32,32,1.8, ,1000,₹830
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+I Kall K55 with MP3/FM Player Neckband, , ,3.5,32,64,1.8, ,1000,₹899
+Lenovo K8 ,Fine Gold,32,4.1,3,32,5.2,8,,"₹11,499"
+Apple iPhone 11 Pro ,Midnight Green,256,4.7,256, , , ,A13,"₹1,21,300"
+nuvo NF-18, , ,3.8,32,32,1.8, ,800,"₹1,099"
+Asus Zenfone 3 Laser ,Silver,32,4,4,32,5.5,8,,"₹19,999"
+I Kall K900 ,Dark Blue,64,3.1,4,64, , ,,"₹6,999"
+MTR Bullet, , ,4.3,64,64, , ,2000,"₹1,049"
+InFocus Hero Power B1, , ,4,32,32, , ,3000,"₹1,640"
+I Kall K3310, , ,3.7,32,64,1.8, ,1000,₹649
+Trio T3 Selfie, , ,3.3,32,64, , ,1000,₹700
+Itel It 5022, , ,4.1,32,32,2.4, ,1000,"₹1,250"
+Mafe X1, , ,3.7,32,64,1.8, ,1050,₹699
+Usha Shriram NJ-2 AMAZE, , , ,32,128, , ,2500,"₹1,090"
+BlackBear i7, , ,3.8,32,32,2, ,1550,"₹1,690"
+MTR Rowdy, , , ,64,64, , ,2000,"₹1,599"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Micromax X516, , ,3.9,32,32, , ,1750,"₹1,990"
+Heemax H9, , , ,32,32, , ,1000,₹699
+Heemax H9, , , ,32,32, , ,1000,₹699
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+Heemax H9, , , ,32,32, , ,1000,₹699
+MTR Mt07, , ,3.7,64,64, , ,800,"₹1,099"
+MTR Mt07, , ,3.7,64,64, , ,800,₹999
+MTR Mt07, , ,3.7,64,64, , ,800,₹999
+Vivo X50 ,Glaze Black,128, ,8,128, , ,4200,"₹34,990"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+Vivo X50 ,Glaze Black,256, ,8,256, , ,4200,"₹37,990"
+Vivo X50 Pro ,Alpha Grey,256, ,8,256, , ,4315,"₹49,990"
+Vivo X50 ,Frost Blue,256, ,8,256, , ,4200,"₹37,990"
+Vivo X50 ,Frost Blue,128, ,8,128, , ,4200,"₹34,990"
+Itel IT5025, , ,3.9,32,32,2.4, ,1200,"₹1,289"
+Mymax M30, , ,3.6,32,32, , ,1000,₹789
+Gamma K-8, , ,3.4,32,32,2.4, ,2200,"₹1,099"
+InFocus Hero Play M1, , ,3.9,24,24,1.8, ,1800,₹950
+Redmi 7 ,Comet Blue,32,4.3,2,32, , ,4000,"₹7,995"
+OPPO A7 ,Glaze Blue,64,4.4,4,64,6.2,16,4230,"₹17,500"
+Heemax H2 Combo of Two mobiles, , ,2.8,32,32, , ,1000,"₹1,099"
+Redmi Note 6 Pro ,Rose Gold,64,4.5,6,64,6.26,20,4000,"₹17,999"
+Honor 8X ,Blue,64,4.4,6,64,6.5,16,3750,"₹19,999"
+Panasonic Eluga I8 ,Charcoal Black,32,3.9,3,32,6.22,8,,"₹8,861"
+Nokia 3.1 Plus ,Charcoal,32,4.2,3,32, , ,3500,"₹12,700"
+Nuvo Flash Echo, , ,3.8,1,1,2.4, ,1000,₹849
+nuvo FLASH, , ,3.6,32,32,2.4, ,1000,₹899
+nuvo FLASH, , ,3.6,32,32,2.4, ,1000,₹849
+nuvo FLASH, , ,3.6,32,32,2.4, ,1000,₹899
+Itel IT 2163, , ,4,32,32,1.8, , ,₹949
+nuvo FLASH, , ,3.6,32,32,2.4, ,1000,₹899
+Vivo Y17 ,Mineral Blue,128,4.4,4,128,6.35,20,5000,"₹13,900"
+Vivo Y95 ,Nebula Purple,64,4.4,4,64,6.22,20,4030,"₹14,990"
+Karbonn KX3, , ,3.9,32,32,1.8, ,800,₹799
+I Kall K4 ,Sea Blue,16,3.4,2,16, , ,2500,"₹4,899"
+"nuvo 2.4"" Display with 2500mAh Battery and Selfie Camera", , , ,32,32, , ,2500,"₹1,049"
+Kechaoda K103, , ,4.1,32,64,2.8, ,1700,"₹1,299"
+MTR MT Bullet, , ,4.2,64,64, , ,1200,"₹1,499"
+EcoTel E12, , ,3.3,32,64, , ,1000,₹580
+EcoTel E12, , ,3.3,32,64, , ,1000,₹580
+MTR Guru, , ,3.9,64,64, , ,800,"₹1,199"
+Itel Magic 1, , ,4.2,32,32,2.4,0.3,,"₹1,549"
+Usha Shriram NJ-2 AMAZE, , , ,32,128, , ,2500,"₹1,090"
+Redmi Note 7 ,Onyx Black,64,4.5,4,64,6.3,13,4000,"₹15,499"
